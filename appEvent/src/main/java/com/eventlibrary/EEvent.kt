@@ -2,7 +2,6 @@ package com.eventlibrary
 
 
 class EEvent {
-
     var lable: String? = null
     var element: String? = null
     var screen_name: String? = null
