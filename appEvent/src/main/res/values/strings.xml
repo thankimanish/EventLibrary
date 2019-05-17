@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Categories -->
+    <string name="element_button">Button</string>
+
+    <!-- Actions -->
+    <string name="action_button_click">Button Click</string>
+
+    <!-- Labels -->
+    <string name="label_overflow_menu">Overflow Menu</string>
+
+    <!-- Fallback Labels -->
+    <string name="label_button_fallback">No Button Label Set</string>
+
+</resources>
